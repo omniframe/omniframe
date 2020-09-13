@@ -1,0 +1,22 @@
+{
+  "name": "@omniframe/hot-dev-client",
+  "version": "0.0.1",
+  "description": "Quickly push HMR updates to the @omniframe/dev-server",
+  "author": "Robert H. Hameetman <robert.hameetman@omniframe.org>",
+  "homepage": "https://www.onmiframe.org",
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omniframe/omniframe.git"
+  },
+  "bugs": {
+    "url": "https://github.com/omniframe/omniframe/issues"
+  },
+  "scripts": {
+    "build": "echo \"Error: no build specified\" && exit 1",
+    "deploy": "echo \"Error: no deployment specified\" && exit 1",
+    "release": "echo \"Error: no release specified\" && exit 1",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}

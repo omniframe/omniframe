@@ -1,0 +1,32 @@
+{
+  "name": "omniframe",
+  "version": "0.0.1",
+  "description": "An advanced enterprise-level framework for modern Front End microservices.",
+  "author": "Robert H. Hameetman <robert.hameetman@omniframe.org>",
+  "homepage": "https://www.onmiframe.org",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omniframe/omniframe.git"
+  },
+  "bugs": {
+    "url": "https://github.com/omniframe/omniframe/issues"
+  },
+  "main": "index.js",
+  "module": "index.js",
+  "typings": "index.d.ts",
+  "bin": {
+    "omniframe": "./bin/omniframe"
+  },
+  "scripts": {
+    "build": "echo \"Error: no build specified\" && exit 1",
+    "deploy": "echo \"Error: no deployment specified\" && exit 1",
+    "release": "echo \"Error: no release specified\" && exit 1",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@omniframe/cli": "./packages/@omniframe/cli",
+    "@omniframe/core": "./packages/@omniframe/core",
+    "@omniframe/jsx": "./packages/@omniframe/jsx"
+  }
+}

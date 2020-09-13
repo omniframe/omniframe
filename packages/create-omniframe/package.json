@@ -1,0 +1,24 @@
+{
+  "name": "create-omniframe",
+  "version": "0.0.1",
+  "description": "An NPM Initializer for quickly and easily bootstrapping your Omniframe projects.",
+  "author": "Robert H. Hameetman <robert.hameetman@omniframe.org>",
+  "homepage": "https://www.onmiframe.org",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omniframe/omniframe.git"
+  },
+  "bugs": {
+    "url": "https://github.com/omniframe/omniframe/issues"
+  },
+  "main": "index.js",
+  "module": "index.js",
+  "typings": "index.d.ts",
+  "scripts": {
+    "build": "echo \"Error: no build specified\" && exit 1",
+    "deploy": "echo \"Error: no deployment specified\" && exit 1",
+    "release": "echo \"Error: no release specified\" && exit 1",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}

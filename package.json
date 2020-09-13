@@ -1,0 +1,24 @@
+{
+  "name": "@omniframe/root",
+  "private": true,
+  "description": "An advanced enterprise-level framework for modern Front End microservices.",
+  "author": "Robert H. Hameetman <robert.hameetman@omniframe.org>",
+  "homepage": "https://www.onmiframe.org",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omniframe/omniframe.git"
+  },
+  "bugs": {
+    "url": "https://github.com/omniframe/omniframe/issues"
+  },
+  "scripts": {
+    "build": "lerna run build",
+    "deploy": "lerna run deploy",
+    "release": "lerna run release",
+    "test": "lerna run test"
+  },
+  "devDependencies": {
+    "lerna": "^3.22.1"
+  }
+}
