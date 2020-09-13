@@ -1,7 +1,7 @@
 {
   "name": "@omniframe/dev-server",
-  "version": "0.0.1",
-  "description": "A light and sleek dev server optimized for your pleasure",
+  "version": "1.0.0-alpha.1",
+  "description": "A light and sleek dev server optimized for sensible Engineering workflows.",
   "author": "Robert H. Hameetman <robert.hameetman@omniframe.org>",
   "homepage": "https://www.onmiframe.org",
   "license": "MIT",

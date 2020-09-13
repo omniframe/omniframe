@@ -1,6 +1,6 @@
 {
   "name": "@omniframe/core",
-  "version": "0.0.1",
+  "version": "1.0.0-alpha.1",
   "description": "An advanced orchestration layer for modern micro-frontend architectures.",
   "author": "Robert H. Hameetman <robert.hameetman@omniframe.org>",
   "homepage": "https://www.onmiframe.org",

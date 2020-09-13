@@ -5,13 +5,15 @@
 [![Release](https://github.com/omniframe/omniframe/workflows/Release/badge.svg)](https://github.com/omniframe/omniframe/actions)
 [![license][npm-license]][npm-license-url]
 
+# 📦 Omniframe: A JSX-Powered Orchestration Layer For Micro-frontends
+
+___
+
 - [📦 Omniframe: A JSX-Powered Orchestration Layer For Micro-frontends](#-omniframe-a-jsx-powered-orchestration-layer-for-micro-frontends)
   - [💼 [§1.0] Getting Started](#-10-getting-started)
   - [🛠 [§2.0] Building Services](#-20-building-services)
     - [[§2.1] Creating Components](#21-creating-components)
   - [📄 [§3.0] License](#-30-license)
-
-# 📦 Omniframe: A JSX-Powered Orchestration Layer For Micro-frontends
 
 ___
 

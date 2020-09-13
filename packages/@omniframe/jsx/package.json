@@ -1,7 +1,7 @@
 {
   "name": "@omniframe/jsx",
-  "version": "0.0.1",
-  "description": "JSX rendering logic for Omniframe",
+  "version": "1.0.0-alpha.1",
+  "description": "JSX rendering logic for Omniframe.",
   "author": "Robert H. Hameetman <robert.hameetman@omniframe.org>",
   "homepage": "https://www.onmiframe.org",
   "license": "MIT",

@@ -1,7 +1,7 @@
 {
   "name": "@omniframe/dev-tools",
-  "version": "0.0.1",
-  "description": "DevTools extension for Google Chrome",
+  "version": "1.0.0-alpha.1",
+  "description": "DevTools extension for Google Chrome.",
   "author": "Robert H. Hameetman <robert.hameetman@omniframe.org>",
   "homepage": "https://www.onmiframe.org",
   "license": "MIT",

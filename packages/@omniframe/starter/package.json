@@ -1,7 +1,7 @@
 {
   "name": "@omniframe/starter",
-  "version": "0.0.1",
-  "description": "A robust project starter template for quick and easy setup",
+  "version": "1.0.0-alpha.1",
+  "description": "A robust project starter template for quick and easy setup.",
   "author": "Robert H. Hameetman <robert.hameetman@omniframe.org>",
   "homepage": "https://www.onmiframe.org",
   "license": "MIT",
