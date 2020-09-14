@@ -7,7 +7,7 @@
 
 # 📦 Omniframe: A JSX-Powered Orchestration Layer For Micro-frontends
 
-___
+---
 
 - [📦 Omniframe: A JSX-Powered Orchestration Layer For Micro-frontends](#-omniframe-a-jsx-powered-orchestration-layer-for-micro-frontends)
   - [💼 [§1.0] Getting Started](#-10-getting-started)
@@ -15,7 +15,7 @@ ___
     - [[§2.1] Creating Components](#21-creating-components)
   - [📄 [§3.0] License](#-30-license)
 
-___
+---
 
 ```bash
 npm init omniframe
@@ -66,7 +66,7 @@ npm run make component ./components/Example
 This project is licensed under the MIT License.
 See the [LICENSE.md](LICENSE.md) file for details
 
-[header]: ./.github/readme.png "Omniframe"
+[header]: https://github.com/omniframe/omniframe/blob/master/.github/readme.png 'Omniframe'
 [npm-badge]: https://img.shields.io/npm/v/@omniframe/core.svg
 [npm-badge-url]: https://www.npmjs.com/package/@omniframe/core
 [npm-license]: https://img.shields.io/npm/l/@omniframe/core.svg
