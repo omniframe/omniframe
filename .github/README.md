@@ -1,7 +1,6 @@
 ![Omniframe][header]
 
 [![npm][npm-badge]][npm-badge-url]
-[![Build & Test](https://github.com/omniframe/omniframe/workflows/Build%20&%20Test/badge.svg)](https://github.com/omniframe/omniframe/actions)
 [![Release](https://github.com/omniframe/omniframe/workflows/Release/badge.svg)](https://github.com/omniframe/omniframe/actions)
 [![license][npm-license]][npm-license-url]
 
