@@ -2,5 +2,10 @@
   "version": "1.0.0-alpha.1",
   "npmClient": "npm",
   "includeMergedTags": true,
+  "command": {
+    "publish": {
+      "registry": "https://npm.pkg.github.com"
+    }
+  },
   "packages": ["packages/*"]
 }
