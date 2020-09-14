@@ -1,29 +1,72 @@
 ![Omniframe][header]
 
-# 📁 `./.github/`
+[![npm][npm-badge]][npm-badge-url]
+[![Build & Test](https://github.com/omniframe/omniframe/workflows/Build%20&%20Test/badge.svg)](https://github.com/omniframe/omniframe/actions)
+[![Release](https://github.com/omniframe/omniframe/workflows/Release/badge.svg)](https://github.com/omniframe/omniframe/actions)
+[![license][npm-license]][npm-license-url]
+
+# 📦 Omniframe: A JSX-Powered Orchestration Layer For Micro-frontends
 
 ___
 
-- [📁 `./.github/`](#-github)
-  - [🏗 [§1.0] Structure](#-10-structure)
-  - [📄 [§2.0] License](#-20-license)
+- [📦 Omniframe: A JSX-Powered Orchestration Layer For Micro-frontends](#-omniframe-a-jsx-powered-orchestration-layer-for-micro-frontends)
+  - [💼 [§1.0] Getting Started](#-10-getting-started)
+  - [🛠 [§2.0] Building Services](#-20-building-services)
+    - [[§2.1] Creating Components](#21-creating-components)
+  - [📄 [§3.0] License](#-30-license)
 
 ___
 
-## 🏗 [§1.0] Structure
+```bash
+npm init omniframe
+```
 
-|   Subdirectories    | Description                                                                      |
-|:-------------------:|----------------------------------------------------------------------------------|
-|   `./@omniframe/`   | Constituent packages of the @omniframe/ scope.                                   |
-|`./create-omniframe/`| An NPM Initializer for quickly and easily bootstrapping your Omniframe projects. |
-|   `./omniframe/`    | An advanced enterprise-level framework for modern Front End microservices.       |
+Omniframe is a new approach to Front End microservice orchestration which
+combines asynchronous rendering with organic event-driven service management.
 
-## 📄 [§2.0] License
+## 💼 [§1.0] Getting Started
+
+Create a new project using the Omniframe interactive CLI:
+
+```bash
+npm init omniframe
+```
+
+Spin up the app in `development`:
+
+```bash
+npm run dev
+```
+
+Or in `production`:
+
+```bash
+npm start
+```
+
+## 🛠 [§2.0] Building Services
+
+To get started building services, run the following command:
+
+```bash
+npm init @omniframe/service <service>
+```
+
+### [§2.1] Creating Components
+
+Once your new service is up and running, you may begin adding new components by
+running the following command in the service's root directory:
+
+```bash
+npm run make component ./components/Example
+```
+
+## 📄 [§3.0] License
 
 This project is licensed under the MIT License.
 See the [LICENSE.md](LICENSE.md) file for details
 
-[header]: /.github/readme.png "Omniframe"
+[header]: ./.github/readme.png "Omniframe"
 [npm-badge]: https://img.shields.io/npm/v/@omniframe/core.svg
 [npm-badge-url]: https://www.npmjs.com/package/@omniframe/core
 [npm-license]: https://img.shields.io/npm/l/@omniframe/core.svg
